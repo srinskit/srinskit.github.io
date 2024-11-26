@@ -1,0 +1,2 @@
+# Directory
+* [Resume](blog/resume)
