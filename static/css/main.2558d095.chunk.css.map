@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,0BACI,GACI,SACJ,CACA,GACI,SACJ,CACJ,CAPA,kBACI,GACI,SACJ,CACA,GACI,SACJ,CACJ","file":"main.2558d095.chunk.css","sourcesContent":["@keyframes fadein {\n    from {\n        opacity: 0;\n    }\n    to {\n        opacity: 1;\n    }\n}"]}
